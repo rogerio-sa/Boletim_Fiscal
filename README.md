@@ -1,2 +1,2 @@
 # Boletim_Fiscal
- Boletim Fiscal Trimestral - Mato Grosso
+ O **Boletim Fiscal Trimestral do Mato Grosso** apresenta o resultado fiscal com base nos seguintes métricas: Resultado Primário, Endividamento, Resultado Orçamentário, comprometimento da despesa com pessoal e encargos sociais, nível de comprometimento da despesa primária corrente pela Emenda Constitucional nº 81/2017, Receita Primária Corrente e Receita Corrente Líquida (RCL) entre outros.
